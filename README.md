@@ -8,7 +8,11 @@ The program outputs the sorted version of a given unsorted list or dataset. It a
 
 <img width="908" alt="Screenshot 2025-01-10 200938" src="https://github.com/user-attachments/assets/a20e66d4-43a9-49ad-a8f3-61c0e63fe210" />
 
+
+
 <img width="873" alt="Screenshot 2025-01-10 202857" src="https://github.com/user-attachments/assets/7537261a-cf12-4008-9968-5c909226ca39" />
+
+
 
 <img width="874" alt="Screenshot 2025-01-10 202922" src="https://github.com/user-attachments/assets/555e8475-928c-4468-9e08-174fbd65172e" />
 
